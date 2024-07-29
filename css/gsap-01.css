@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.parallex-item:nth-child(1) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=1");
+}
+.parallex-item:nth-child(2) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=2");
+}
+.parallex-item:nth-child(3) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=3");
+}
+.parallex-item:nth-child(4) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=4");
+}
+.parallex-item:nth-child(5) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=5");
+}
+.parallex-item:nth-child(6) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=6");
+}
+.parallex-item:nth-child(7) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=7");
+}
+.parallex-item:nth-child(8) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=8");
+}
+.parallex-item:nth-child(9) .parallex-item-img {
+  background-image: url("https://picsum.photos/300/300?random=9");
+}
